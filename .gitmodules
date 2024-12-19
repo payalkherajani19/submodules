@@ -1,0 +1,3 @@
+[submodule "child-subtree"]
+	path = child-subtree
+	url = https://github.com/payalkherajani19/child-subtree.git
